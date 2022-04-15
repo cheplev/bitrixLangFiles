@@ -3,6 +3,7 @@
 use Arrilot\BitrixMigrations\BaseMigrations\BitrixMigration;
 use Arrilot\BitrixMigrations\Exceptions\MigrationException;
 
+//Change field names in Iblocks
 class AddEnumValuesContract20220408100604242619 extends BitrixMigration
 {
     /**

@@ -3,6 +3,7 @@
 use Arrilot\BitrixMigrations\BaseMigrations\BitrixMigration;
 use Arrilot\BitrixMigrations\Exceptions\MigrationException;
 
+//Change field names in entity
 class ChangeFieldLangName20220329084850047240 extends BitrixMigration
 {
     /**
